@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "babel-preset-stage-0": "^6.22.0",
+    "eslint-config-equimper": "^1.5.1",
     "nodemon": "^1.11.0"
   }
 }
